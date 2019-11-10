@@ -1,0 +1,4 @@
+cd "C:\Program Files (x86)\Microsoft Office\Office16"
+cscript ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
+cscript ospp.vbs /sethst:kms.dopwn.com
+cscript ospp.vbs /act
