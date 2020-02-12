@@ -1,3 +1,4 @@
 slmgr.vbs -ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+# slmgr.vbs -ipk M7XTQ-FN8P6-TTKYV-9D4CC-J462D
 slmgr.vbs -skms kms.dopwn.com
 slmgr.vbs -ato
