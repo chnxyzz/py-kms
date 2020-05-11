@@ -1,5 +1,10 @@
 slmgr.vbs -ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+
 #win2019 lstc
 # slmgr.vbs -ipk M7XTQ-FN8P6-TTKYV-9D4CC-J462D
+
+#winserver2019 
+# slmgr.vbs -ipk  WMDGN-G9PQG-XVVXX-R3X43-63DFG
+
 slmgr.vbs -skms kms.dopwn.com
 slmgr.vbs -ato
