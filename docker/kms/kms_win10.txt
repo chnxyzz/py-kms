@@ -1,10 +1,27 @@
+#win10 专业版
+
 slmgr.vbs -ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+slmgr.vbs -skms kms.xyzz.store
+slmgr.vbs -ato
+slmgr.vbs -dlv
 
 #win2019 lstc
-# slmgr.vbs -ipk M7XTQ-FN8P6-TTKYV-9D4CC-J462D
+
+slmgr.vbs -ipk M7XTQ-FN8P6-TTKYV-9D4CC-J462D
+slmgr.vbs -skms kms.xyzz.store
+slmgr.vbs -ato
+slmgr.vbs -dlv
 
 #winserver2019 
-# slmgr.vbs -ipk  WMDGN-G9PQG-XVVXX-R3X43-63DFG
 
-slmgr.vbs -skms kms.dopwn.com
+slmgr.vbs -ipk  WMDGN-G9PQG-XVVXX-R3X43-63DFG
+slmgr.vbs -skms kms.xyzz.store
 slmgr.vbs -ato
+slmgr.vbs -dlv
+
+
+#win7 专业版
+slmgr.vbs -ipk FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4
+slmgr.vbs -skms kms.xyzz.store
+slmgr.vbs -ato
+slmgr.vbs -dlv
